@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rupeshthapa9700/leetcode-javascript/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/rupeshthapa9700/leetcode-javascript/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/rupeshthapa9700/leetcode-javascript/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
